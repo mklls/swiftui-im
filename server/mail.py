@@ -1,7 +1,7 @@
 '''
 @Author: your name
 @Date: 2020-06-13 08:45:14
-@LastEditTime: 2020-06-19 19:40:46
+@LastEditTime: 2020-06-30 09:15:05
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: /server/outlook.py
@@ -10,7 +10,7 @@ import requests, json
 '''
 这一部分需要有Azure订阅才能用
 需要在Azure里面创建应用, 具体教程请查阅azure的官方文档
-复制资料 https://medium.com/@fiqriismail/how-to-get-an-access-token-for-microsoft-graph-api-using-node-js-258723f29cc6
+辅助资料 https://medium.com/@fiqriismail/how-to-get-an-access-token-for-microsoft-graph-api-using-node-js-258723f29cc6
 '''
 
 class Mail:
