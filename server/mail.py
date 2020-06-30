@@ -8,8 +8,9 @@
 '''
 import requests, json
 '''
-这一部分需要好像需要有Azure订阅才能用
-需要在Azure里面创建应用
+这一部分需要有Azure订阅才能用
+需要在Azure里面创建应用, 具体教程请查阅azure的官方文档
+复制资料 https://medium.com/@fiqriismail/how-to-get-an-access-token-for-microsoft-graph-api-using-node-js-258723f29cc6
 '''
 
 class Mail:
