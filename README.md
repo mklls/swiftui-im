@@ -16,7 +16,7 @@ python3 chatserver.py
 ```
 ## 注意
 如果要使用验证码功能,需要在Azure里面创建应用,获取获取应用的配置信息,填入 ***server/mail.py*** 里面
-
+## 截图
 <img src="screenshot/temp.gif" >
 
 <img src="screenshot/signin.png"><img src="screenshot/signup.png"><img src="screenshot/chat.png"><img src="screenshot/profile.png"><img src="screenshot/password.png" >
