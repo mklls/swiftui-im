@@ -8,7 +8,7 @@
 python3 -m pip install requests
 python3 -m pip install flask
 cd alias
-carthage update --platefrom iOS
+carthage update --platform iOS
 # 启动服务端
 python3 server.py
 python3 chatserver.py
